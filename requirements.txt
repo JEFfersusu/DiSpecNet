@@ -1,0 +1,9 @@
+torch==1.12.0+cu116
+torchvision==0.13.0+cu116
+einops==0.7.0
+numpy==1.24.4
+Pillow==9.4.0
+scikit-learn==1.3.2
+matplotlib==3.5.3
+timm==0.6.13
+ptflops
