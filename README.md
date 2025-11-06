@@ -1,7 +1,7 @@
 # DiSpecNet
 **Official PyTorch implementation of "An ultra-efficient dual-domain network for pumping units fault diagnosis"**
 
-### Note: The project and the code are being finalized.
+### Note: The project and the code are still being refined.
 
 This study is published by the _Measurement Science and Technology_: https://iopscience.iop.org/article/10.1088/1361-6501/ae1318/meta.
 
