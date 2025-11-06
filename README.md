@@ -1,2 +1,3 @@
 # DiSpecNet
-DiSpecNet: Towards Extremly Efficient Fault Diagnosis of Pumping Units 
+An ultra-efficient dual-domain network for pumping units fault diagnosis
+
